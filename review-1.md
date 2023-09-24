@@ -1,7 +1,7 @@
-#¿Qué es mi producto y para que sirve?
+¿Qué es mi producto y para que sirve?
 Mi producto es una lista de tareas que permite a los usuarios crear, gestionar y realizar un seguimiento de sus tareas. 
 
-#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
 Las características más importantes de mi producto son:
  La capacidad de crear tareas.
  La capacidad de poner una descripcion para una tarea.
